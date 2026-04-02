@@ -1,0 +1,23 @@
+.heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.errmsg {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: red;
+}
+
+.form-contol {
+    width: 80vw;
+}
+
+.gender-heading {
+    color: #212529;
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
